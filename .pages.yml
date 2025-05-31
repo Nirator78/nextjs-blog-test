@@ -34,7 +34,7 @@ content:
 
     - name: config
       label: Jekyll config
-      path: _config.yml
+      path: _jekyll
       type: file
       fields:
           - name: title
