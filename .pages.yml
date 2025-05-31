@@ -35,7 +35,9 @@ content:
     - name: config
       label: Jekyll config
       path: _jekyll
-      type: file
+      type: collection
+      view:
+          fields: [title]
       fields:
           - name: title
             label: Website title
