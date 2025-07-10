@@ -13,6 +13,7 @@ keywords:
         "performance",
     ]
 slug: "dynamic-routing"
+published: true
 canonicalUrl: "/posts/dynamic-routing"
 robots: "index, follow"
 openGraph:
